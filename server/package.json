@@ -1,0 +1,17 @@
+{
+  "name": "how-i-react-service",
+  "module": "index.ts",
+  "scripts": {
+    "dev": "bun --watch index.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "type": "module",
+  "dependencies": {
+    "socket.io": "^4.8.1"
+  }
+}
