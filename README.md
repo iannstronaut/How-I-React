@@ -37,5 +37,5 @@
 
 1. **Clone repository ini**
    ```bash
-   git clone https://github.com/username/how-i-react.git
+   git clone https://github.com/iannstronaut/How-I-React.git
    cd how-i-react
